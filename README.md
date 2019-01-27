@@ -1,2 +1,1 @@
-# portfolio website in progress
-[savannah.nyc](http://savannah.nyc/)
+# 52 good things
