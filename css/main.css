@@ -17,7 +17,7 @@ body {
     /* padding-left: 3rem;
     padding-right: 3rem; */
     color: #424242;
-    max-width: 41rem;
+    max-width: 100%;
 }
 
 .title {
@@ -34,13 +34,13 @@ body {
     font-size: 18px;
 }
 
-a {
+a.two {
     color : #f44336;
     text-decoration: none;
     cursor: url("../images/pencil.png"), pointer;
 }
 
-a.two {
+a {
     color : #f44336;
     text-decoration: none;
     cursor: pointer;
