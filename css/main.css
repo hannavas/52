@@ -3,21 +3,33 @@
     src: url("../fonts/Untitled.ttf");
 }
 
+@font-face {
+    font-family: "Untitled_Bold";
+    src: url("../fonts/Untitled_Bold.ttf");
+}
+
 * {}
 
 body {
 }
 
 .intro {
-    padding-left: 3rem;
-    padding-right: 3rem;
+    /* padding-left: 3rem;
+    padding-right: 3rem; */
     color: #424242;
     max-width: 41rem;
 }
 
-.subtext {
+.title {
+    font-family: "Untitled_Bold";
+    padding: 20px 0px 0px 20px;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.subtitle {
     font-family: "Untitled";
-    padding-top: 20px;
+    padding-left: 20px;
     line-height: 1.5;
     font-size: 18px;
 }
