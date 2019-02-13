@@ -37,5 +37,11 @@ body {
 a {
     color : #f44336;
     text-decoration: none;
-     cursor: url("../images/pencil.png"), pointer;
+    cursor: url("../images/pencil.png"), pointer;
+}
+
+a.two {
+    color : #f44336;
+    text-decoration: none;
+    cursor: pointer;
 }
