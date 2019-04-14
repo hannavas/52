@@ -1,4 +1,12 @@
 @font-face {
+    font-family: 'PublicSans-Light';
+    src: url('fonts/PublicSans-Light.woff') format('woff'),
+         url('fonts/PublicSans-Light.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
     font-family: "Untitled";
     src: url("../fonts/Untitled.ttf");
 }
@@ -11,7 +19,7 @@
 * {}
 
 body {
-    font-family: "Untitled";
+    font-family: "PublicSans-Light";
 }
 
 .intro {
